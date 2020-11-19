@@ -1,6 +1,7 @@
 /**
  * 项目生产环境配置文件
  */
+//testeteteteteteteteteetetetet
 export default {
   API_BASE_URL: `//${window.location.host}`,
   LOGIN_URL: `//${window.location.host}/#login`,
