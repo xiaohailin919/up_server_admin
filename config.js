@@ -6,6 +6,7 @@ export default {
   API_BASE_URL: `//${window.location.host}`,
   LOGIN_URL: `//${window.location.host}/#login`,
   IMG_BASE_URL: '//mores.toponad.com',
+  aaa:"sssssssss",
   API: {
     'LOGIN': 'login',
     'LOGOUT': 'logout',
