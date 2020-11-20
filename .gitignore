@@ -1,0 +1,7 @@
+.env
+.idea
+public/my.log
+/app/Console/Commands/AddAccountsForInterns.php
+app/Http/Controllers/TestController.php
+static
+index.html

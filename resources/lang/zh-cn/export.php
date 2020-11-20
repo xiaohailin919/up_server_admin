@@ -1,0 +1,52 @@
+<?php
+/**
+ * 报表相关字段
+ */
+return [
+    // report chart
+    'date_time'                     => '日期',
+    'hour'                          => '小时',
+    'app_strategy_request'          => 'App策略请求',
+    'placement_strategy_request'    => 'Placement策略请求',
+    'loads'                         => '流量请求',
+    'loads_filled_rate'             => '流量填充率',
+    'request'                       => '广告请求',
+    'request_filled_rate'           => '广告填充率',
+    'show'                          => 'Show',
+    'impression'                    => '展示',
+    'click'                         => '点击',
+    'ctr'                           => '点击率',
+    
+    // report tc
+    'publisher_id'                  => '开发者ID',
+    'publisher_name'                => '开发者名称',
+    'app_id'                        => '应用ID',
+    'app_uuid'                      => '应用UUID',
+    'app_name'                      => '应用名称',
+    'placement_id'                  => '广告位ID',
+    'placement_uuid'                => '广告位UUID',
+    'placement_name'                => '广告位名称',
+    'format'                        => '广告样式',
+    'nw_firm_id'                    => '广告平台ID',
+    'unit_id'                       => '广告源ID',
+    'unit_name'                     => '广告源名称',
+    'geo_short'                     => '地区',
+    'sdk_version'                   => 'SDK版本',
+    'app_version'                   => 'App版本',
+    'offer_pkg'                     => '包名',
+    'offer_title'                   => '应用名称',
+    'offer_title_s'                 => '标题',
+    'offer_desc'                    => '描述',
+    'platform'                      => '系统平台',
+    'qcc_impression'                => '展示',
+    'qcc_click'                     => '点击',
+    'tc_request'                    => 'TC请求',
+    'tc_request_click_rate'         => 'TC请求接受率',
+    'tc_filled_request'             => 'TC填充',
+    'tc_filled_request_rate'        => 'TC填充率',
+    'tc_click'                      => 'TC点击',
+    'tc_ctr'                        => 'TC点击率',
+    'tc_install'                    => 'TC安装',
+    'tc_cvr'                        => 'TC CVR',
+    'tc_revenue'                    => 'TC收益',
+];
